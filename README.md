@@ -6,7 +6,7 @@
 <ul>
     <li>김하늘, 우진영, 홍유리</li>
     <li>RAG와 프롬프트 엔지니어링을 통해 친구와 대화하듯 운동 이야기를 할 수 있는 일기 작성 챗봇 형성</li>
-    <li><a href="https://yurihong.notion.site/deepdaiv-24s-project?pvs=4"><img src='https://img.shields.io/badge/Project Page-exercise chatbot-blue'></a></li>
+    <li><a href="https://yurihong.notion.site/deepdaiv-24s-project?pvs=4"><img src='https://img.shields.io/badge/Project detail-exercise chatbot-yellow'></a></li>
   </ul>
 
 <!-- 
