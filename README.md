@@ -28,7 +28,3 @@
 ```
 ~$ streamlit run chatbot.py
 ```
-<h3> 프로젝트 보고서 </h3>
-<ul>
-    <li>https://yurihong.notion.site/deepdaiv-24s-project?pvs=4</li>
-</ul>
